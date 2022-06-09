@@ -1,0 +1,445 @@
+{
+    "frutas": [
+        {
+            "id:": 1,
+            "name": "abacate",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 5.12,
+                "discount": false,
+                "discount_price": 4.49
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/abacate.png",
+                "alt": "Abacate"
+            }
+        },
+        {
+            "id:": 2,
+            "name": "abacaxi",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 7.92,
+                "discount": true,
+                "discount_price": 4.49
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/abacaxi.png",
+                "alt": "Abacaxi"
+            }
+        },
+        {
+            "id:": 3,
+            "name": "ameixa",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 16.12,
+                "discount": false,
+                "discount_price": 13.59
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/ameixa.png",
+                "alt": "Ameixa"
+            }
+        },
+        {
+            "id:": 4,
+            "name": "amora",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 46.28,
+                "discount": false,
+                "discount_price": 39.85
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/amora.png",
+                "alt": "Amora"
+            }
+        },
+        {
+            "id:": 5,
+            "name": "banana",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 5.72,
+                "discount": false,
+                "discount_price": 4.88
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/banana.png",
+                "alt": "Banana"
+            }
+        },
+        {
+            "id:": 6,
+            "name": "goiaba",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 5.38,
+                "discount": false,
+                "discount_price": 4.12
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/goiaba.png",
+                "alt": "Goiaba"
+            }
+        },
+        {
+            "id:": 7,
+            "name": "kiwi",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 22.92,
+                "discount": false,
+                "discount_price": 16.47
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/kiwi.png",
+                "alt": "Kiwi"
+            }
+        },
+        {
+            "id:": 8,
+            "name": "laranja",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 7.98,
+                "discount": false,
+                "discount_price": 5.89
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/laranja.png",
+                "alt": "Laranja"
+            }
+        },
+        {
+            "id:": 9,
+            "name": "Lichia",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 21.12,
+                "discount": false,
+                "discount_price": 18.55
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/lichia.png",
+                "alt": "Lichia"
+            }
+        },
+        {
+            "id:": 10,
+            "name": "maçã verde",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 14.12,
+                "discount": false,
+                "discount_price": 11.49
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/macaverde.png",
+                "alt": "Maçã Verde"
+            }
+        },
+        {
+            "id:": 11,
+            "name": "mangá",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 9.88,
+                "discount": false,
+                "discount_price": 7.99
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/manga.png",
+                "alt": "Mangá"
+            }
+        },
+        {
+            "id:": 12,
+            "name": "melancia",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 3.53,
+                "discount": false,
+                "discount_price": 2.19
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/melancia.png",
+                "alt": "Melancia"
+            }
+        },
+        {
+            "id:": 13,
+            "name": "melão",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 6.46,
+                "discount": false,
+                "discount_price": 5.46
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/melao.png",
+                "alt": "Melão"
+            }
+        },
+        {
+            "id:": 14,
+            "name": "mexerica",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 5.15,
+                "discount": false,
+                "discount_price": 4.12
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/mexerica.png",
+                "alt": "Mexerica"
+            }
+        },
+        {
+            "id:": 15,
+            "name": "mirtilo",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 15.95,
+                "discount": false,
+                "discount_price": 11.69
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/mirtilo.png",
+                "alt": "Mirtilo"
+            }
+        },
+        {
+            "id:": 16,
+            "name": "morango",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 8.12,
+                "discount": false,
+                "discount_price": 4.65
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/morango.png",
+                "alt": "Morango"
+            }
+        },
+        {
+            "id:": 17,
+            "name": "perâ",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 6.69,
+                "discount": false,
+                "discount_price": 5.89
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/ameixa.png",
+                "alt": "Perâ"
+            }
+        },
+        {
+            "id:": 18,
+            "name": "pessego",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 6.89,
+                "discount": false,
+                "discount_price": 6.11
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/ameixa.png",
+                "alt": "pessego"
+            }
+        },
+        {
+            "id:": 19,
+            "name": "romã",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 4.62,
+                "discount": false,
+                "discount_price": 3.49
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/ameixa.png",
+                "alt": "Romã"
+            }
+        },
+        {
+            "id:": 20,
+            "name": "uva roxa",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 9.21,
+                "discount": false,
+                "discount_price": 7.18
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/ameixa.png",
+                "alt": "Uva roxa"
+            }
+        },
+        {
+            "id:": 21,
+            "name": "uva verde",
+            "family": "fruta",
+            "description": "lorem lorem lorem lorem lorem lorem lorem", 
+            "prices": {
+                "price": 9.25,
+                "discount": false,
+                "discount_price": 7.49
+            },
+            "nutricional_values":{
+                "kcal": 122,
+                "carbohydrate":21,
+                "proteins":0.5,
+                "fibers": 2
+            },
+            "image":{
+                "url": "../frutas images/ameixa.png",
+                "alt": "Uva verde"
+            }
+        }
+    ]
+}
